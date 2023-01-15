@@ -1,0 +1,89 @@
+.principal {
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+
+header {
+    padding: 20px 0;
+}
+
+.caja {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.logo {
+    max-width: 10%;
+}
+
+nav {
+    position: absolute;
+    top: 60px;
+    right: 50px;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #d64215;
+    text-decoration: underline;
+    transition: .3s all;
+}
+
+.titulo-principal {
+    padding-left: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.diferenciales {
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    height: 40px;
+    font-size: 30px;
+}
+
+.area-diferenciales {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.items {
+    font-style: italic;
+}
+
+.imagenDiferenciales {
+    width: 40%;
+}
